@@ -1,6 +1,6 @@
 # Superconducting cascade electron refrigerator
 
-## M. Camarasa-Gómez, _A. Di Marco_, F. W. J. Hekking, C. B. Winkelmann, H. Courtois, and F. Giazotto
+## M. Camarasa-Gómez, A. Di Marco, F. W. J. Hekking, C. B. Winkelmann, H. Courtois, and F. Giazotto
 ## [Appl. Phys. Lett. 104, 192601 (2014)](https://aip.scitation.org/doi/full/10.1063/1.4876478)
 
 ### Abstract
