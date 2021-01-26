@@ -1,7 +1,7 @@
 # Leakage current of a superconductor–normal metal tunnel junction connected to a high-temperature environment
 
 ## A. Di Marco, V. F. Maisi, J. P. Pekola, and F. W. J. Hekking
-## Phys. Rev. B 88, 174507 – Published 11 November 2013
+## [Phys. Rev. B 88, 174507 (2013)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.88.174507)
 
 We consider a voltage-biased normal metal-insulator-superconductor (NIS) tunnel junction, connected to a high-temperature external electromagnetic environment. 
 This model system features the commonly observed subgap leakage current in NIS junctions through photon-assisted tunneling which is detrimental for applications. 
