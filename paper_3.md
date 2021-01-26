@@ -1,7 +1,7 @@
 # Quantum phase-slip junction under microwave irradiation
 
 ## A. Di Marco, F. W. J. Hekking, and G. Rastelli
-## [Phys. Rev. B 91, 184512 – Published 19 May 2015](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.184512)
+## [Phys. Rev. B 91, 184512 (2015)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.184512)
 
 ### Abstract
 We consider the dynamics of a quantum phase-slip junction (QPSJ), a dual Josephson junction, connected to a microwave source with frequency ω_mw. With respect to an ordinary Josephson junction, a QPSJ can sustain dual Shapiro steps, consisting of well-defined current plateaus at multiple integers of 
